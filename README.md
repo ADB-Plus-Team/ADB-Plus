@@ -18,4 +18,4 @@ adbplus app open com.android.vending
 ```
 
 ## *IMPORTANT!!*
-**I am not responsible for any damages to your Android.** Android ADB Plus may include destructive commands, for example `adbplus system resetsettings` or `adbplus sourcecode hack`. Use the `adbplus important` command for more info.
+**I am not responsible for any damages to your Android.** Android ADB Plus may include destructive commands, for example `adbplus system resetsettings` or `adbplus sourcecode hack`. Use the `about-adb-plus important` command for more info.
